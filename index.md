@@ -6,6 +6,7 @@
 フロントエンドもバックエンドもそれなりに開発経験があります
 
 ## Profile
+![プロフィール写真](img/favicon/android-icon-144x144.png)
 - 名前: Ria
 - 居住地: 東京都
 - 開発分野: web開発、バッチ開発
@@ -31,3 +32,5 @@
 - 2018年10月 1社目(ソフトウェア開発)退社
 - 2016年04月 1社目(ソフトウェア開発)入社
 - 2016年03月 日本大学法学部(https://www.law.nihon-u.ac.jp/) 政治経済学科 卒業
+
+<iframe src="https://www.openprocessing.org/sketch/873113/embed/" width="400" height="300"></iframe>
